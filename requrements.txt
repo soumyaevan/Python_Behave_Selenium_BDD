@@ -1,0 +1,16 @@
+allure-behave==2.8.18
+allure-python-commons==2.8.18
+attrs==20.2.0
+behave==1.2.6
+iniconfig==1.1.1
+packaging==20.4
+parse==1.18.0
+parse-type==0.5.2
+pluggy==0.13.1
+py==1.9.0
+pyparsing==2.4.7
+pytest==6.1.1
+selenium==3.141.0
+six==1.15.0
+toml==0.10.1
+urllib3==1.25.11

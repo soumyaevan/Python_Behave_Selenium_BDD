@@ -1,0 +1,4 @@
+reports/*.json
+venv
+geckodriver.log
+.idea
