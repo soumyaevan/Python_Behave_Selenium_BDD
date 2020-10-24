@@ -5,6 +5,7 @@ Feature: Validate the login feature
     When Open the https://opensource-demo.orangehrmlive.com/ website
     Then The login portal has been opened
 
+  @valid_login
   Scenario: Login with valid credentials
     And Provide the username "Admin" and password "admin123"
     And Click on the Login button
